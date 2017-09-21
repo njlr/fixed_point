@@ -1,5 +1,5 @@
 prebuilt_cxx_library(
-  name = 'fixed_point',
+  name = 'fixed-point',
   header_only = True,
   header_namespace = 'sg14',
   exported_headers = subdir_glob([

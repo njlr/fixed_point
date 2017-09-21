@@ -16,3 +16,9 @@
 *.VC.VC.opendb
 *.vcxproj
 *.vcxproj.filters
+
+/.buckd/
+/buck-out/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
